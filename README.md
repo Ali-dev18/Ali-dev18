@@ -1,14 +1,10 @@
-# Hi there, I'm Ali Essam 👋
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+# Hi 👋, I'm Ali Essam
 
-### Front-End Web Developer
+### Front-End Web Developer & Python Learner
 
-Passionate about building responsive, modern, and user-friendly web interfaces using HTML, CSS, and JavaScript.
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Front-End+Developer;Python+Learner;Future+Software+Engineer" />
 
 </div>
 
@@ -16,15 +12,18 @@ Passionate about building responsive, modern, and user-friendly web interfaces u
 
 ## 🚀 About Me
 
-* 🌱 Currently improving my Front-End development skills.
-* 💻 Building responsive websites with modern UI designs.
-* 🎯 Focused on clean code and great user experience.
-* 📚 Learning advanced JavaScript and modern frameworks.
-* ⚡ Love turning designs into interactive websites.
+* 👨‍💻 My name is **Ali Essam**
+* 🎂 I'm **15 years old**
+* 🌍 From Sudan
+* 💻 Front-End Developer using **HTML, CSS, JavaScript**
+* 🐍 Currently learning **Python**
+* 📚 Improving my programming skills every day
+* 🎯 Dream: Study Computer Science and live in the United Kingdom 🇬🇧
+* 🔥 Passionate about Web Development and Technology
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 ### Front-End
 
@@ -32,48 +31,35 @@ Passionate about building responsive, modern, and user-friendly web interfaces u
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
+### Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 💡 Skills
+## 📈 GitHub Stats
 
-```javascript
-const aliEssam = {
-  role: "Front-End Developer",
-  languages: ["HTML", "CSS", "JavaScript"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  focus: "Responsive Web Design",
-  learning: "Advanced JavaScript"
-};
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Goals 2026
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: Your LinkedIn Profile
+* Learn Python deeply
+* Build professional websites
+* Master JavaScript
+* Learn React
+* Contribute to Open Source
+* Study abroad in the UK 🇬🇧
 
 ---
-
-<div align="center">
 
 ### Thanks for visiting my profile ❤️
-
-</div>
 
